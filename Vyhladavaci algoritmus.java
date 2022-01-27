@@ -9,7 +9,7 @@ public class Main {
     }
 
     static void priklad1() {
-        int[] pole = new int[100000];
+        int[] pole = new int[1000];
         int x = 0;
         Scanner sc = new Scanner(System.in);
 
